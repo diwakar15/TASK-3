@@ -1,0 +1,52 @@
+RESUME JSON
+
+{
+  "basics": {
+    "name": "diwakar",
+    "label": "Programmer",
+    "email": "diwakarmuralisan.com",
+    "phone": "7339332640",
+    "location": {
+      "address": "no:71,s.v street",
+      "postalCode": "602001",
+      "city": "cheenai",
+    },
+  "work": [{
+    "name": "Company",
+    "position":"developer",
+    ]
+  }],
+  "education": [{
+    "institution": "saveetha engineering college",
+    "area": "Software Development",
+    "cgpa": "7.1",
+    "courses": ["B.E computer science"
+    ]
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "issuer": "Company",
+   
+  }],
+
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English,Tamil",
+ 
+  }],
+  "interests": [{
+    "name": "Web develoiper",
+    "keywords": [
+      "full stack"
+    ]
+  }]
+  
+}
